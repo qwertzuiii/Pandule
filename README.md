@@ -1,7 +1,7 @@
 <center>
-    <h1>Pan-dule</h1>
-    <p>A python module (made for me) to code faster</p>
-    <h3>Current version: <b>/</b></h3>
+    <h1 align="center">Pan-dule</h1>
+    <p align="center">A python module (made for me) to code faster.</p>
+    <h3 align="center">Current version: <b>/</b></h3>
     <hr>
 </center>
 
